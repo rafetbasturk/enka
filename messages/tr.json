@@ -1,0 +1,398 @@
+{
+  "navbar": {
+    "home": "Ana Sayfa",
+    "machines": "Makine Parkuru",
+    "references": "Referanslar",
+    "contact": "İletişim",
+    "language": "Dil",
+    "languageSwitcher": {
+      "en": "İngilizce",
+      "tr": "Türkçe"
+    }
+  },
+  "Machines": {
+    "title": "Makinelerimiz",
+    "details": "Detayları Gör"
+  },
+  "Contact": {
+    "title": "Bize Ulaşın",
+    "subtitle": "İletişime Geçin",
+    "description": "Aşağıdaki formu doldurun, en kısa sürede size dönüş yapalım.",
+    "name": "İsim",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "send": "Mesaj Gönder"
+  },
+  "footer": {
+    "company": "En-Ka Makine Kalıp",
+    "rights": "Tüm hakları saklıdır.",
+    "about": "En-Ka Makine ve Kalıp, Bursa Çalı Sanayi Bölgesi'nde yerleşik bir CNC işleme ve kalıp imalat şirketidir. Çeşitli sektörlere hassas işleme ve kalıp imalat hizmetleri sunmaktayız.",
+    "navigation": "Sayfalar",
+    "contact": "İletişim",
+    "since": "2014'ten Beri"
+  },
+  "keywords": [
+    "enka",
+    "en-ka",
+    "nka",
+    "recep arslan",
+    "enka cnc",
+    "en-ka cnc",
+    "makine",
+    "makina",
+    "makine kalıp",
+    "makina kalıp",
+    "talaşlı imalat",
+    "kalıp",
+    "metal",
+    "taşlama",
+    "torna",
+    "freze",
+    "bursa",
+    "çalı"
+  ],
+  "category": "talaşlı imalat",
+  "loading": "Yükleniyor...",
+  "header": {
+    "direction": "Yol Tarifi",
+    "tel": "+90 224 441 55 44",
+    "href": "tel:+902244415544"
+  },
+  "home": {
+    "title": "Ana Sayfa | En-Ka Makine Kalıp",
+    "description": "En-Ka Makine ve Kalıp, Bursa Çalı Sanayi Bölgesi'nde yerleşik bir CNC işleme ve kalıp imalat şirketidir. Çeşitli sektörlere hassas işleme ve kalıp imalat hizmetleri sunmaktayız.",
+    "seoH1": "CNC Freze ve Torna İmalatı | En-Ka Makine Kalıp, Bursa",
+    "hero": {
+      "headline": "CNC Freze ve Torna\nİmalatında Güvenilir Çözüm Ortağınız",
+      "description": "En-Ka Makine Kalıp, prototipten seri üretime kadar tüm CNC işleme ihtiyaçlarınızda hızlı, esnek ve güvenilir çözümler sunar.",
+      "subDescription": "Parçanızı sadece üretmiyoruz — sürecin tamamını sahipleniyoruz."
+    },
+    "trust": {
+      "text": "Otomotiv, makine, savunma ve endüstriyel üretim sektörlerine yönelik CNC işleme çözümlerimizle, farklı tolerans ve malzeme ihtiyaçlarına uygun üretim gerçekleştiriyoruz.",
+      "precision": {
+        "value": "±0.01 mm",
+        "label": "Hassasiyet"
+      },
+      "delivery": {
+        "value": "48–72 saat",
+        "label": "Prototip Teslim"
+      },
+      "experience": {
+        "value": "10+ yıl",
+        "label": "CNC Tecrübe"
+      }
+    },
+    "who": {
+      "h": "BİZ KİMİZ",
+      "p": "Makine ve kalıp sektörünün talaşlı imalatına yönelik edindiğimiz tecrübelerimizi, 2015 yılında En-Ka Makine Kalıp adı altında birleştirdik ve siz değerli müşterilerimize Çalı Sanayi Bölgesi'nde hizmet vermeye devam etmekteyiz."
+    },
+    "mission": {
+      "h": "MİSYONUMUZ",
+      "p": "Talaşlı imalatta kalite yönetimi doğrultusunda teknolojik çözümler geliştiren, kaliteli ürün ve hizmetler sunan, sürekli gelişimden yana, müşteri memnuniyeti odaklı, Türkiye'nin bilinen bir markası olmak."
+    },
+    "vision": {
+      "h": "VİZYONUMUZ",
+      "p": "Teknolojiyi sürekli takip ederek, müşteri ihtiyaç ve beklentilerine en uygun ürün ve hizmetleri sunan, Türkiye'nin çevre dostu bir üretim merkezi olmak."
+    },
+    "explore": "Makineleri Keşfet",
+    "contact": "Bize Ulaşın"
+  },
+  "references": {
+    "title": "Referanslar",
+    "description": "Bu sayfa En-Ka Makine Kalıp firmasının çözüm ürettiği referans olabilecek firmaları göstermektedir.",
+    "heading": "Referanslar",
+    "subtitle": "Kanıtlanmış Başarı",
+    "others": "ve daha fazlası ..."
+  },
+  "contact": {
+    "title": "İletişim | En-Ka Makine Kalıp",
+    "description": "En-Ka Makine ve Kalıp ile iletişime geçin. Adres, telefon ve e-posta bilgilerimize buradan ulaşabilirsiniz.",
+    "heading": "İletişim",
+    "tel": "+90 224 441 55 44",
+    "href": "tel:+902244415544",
+    "fax": "+90 224 441 16 17",
+    "email": "bilgi@en-ka.net",
+    "address": "Çalı Sanayi Bölgesi Beyaz Cadde No: 2 Nilüfer / BURSA",
+    "form": {
+      "heading": "Bize Mesaj Gönderin",
+      "name": "Ad Soyad",
+      "mail": "E-posta Adresi",
+      "phone": "Telefon Numarası",
+      "message": "Mesajınız",
+      "btn": "Mesajı Gönder",
+      "placeholders": {
+        "name": "Ad Soyad",
+        "email": "eposta@ornek.com",
+        "phone": "+90 5XX XXX XX XX",
+        "message": "Size nasıl yardımcı olabiliriz?"
+      },
+      "error": "Bir hata oluştu. Lütfen daha sonra tekrar deneyiniz."
+    },
+    "sent": "Mesajınız iletildi. En kısa sürede size dönüş yapacağız."
+  },
+  "slides": {
+    "0": {
+      "detail": "Parçanız.\nSorumluluğumuz."
+    },
+    "1": {
+      "detail": "Çizimden metale.\nHızlı ve net."
+    },
+    "2": {
+      "detail": "Prototipten\nseri üretime."
+    },
+    "3": {
+      "detail": "Bursa’da\ngüvenilir CNC firması."
+    },
+    "4": {
+      "detail": "Uzun vadeli\nüretim ortağınız."
+    }
+  },
+  "error": {
+    "title": "Hata: 404",
+    "text": "Sayfa bulunamadı!"
+  },
+  "services": {
+    "title": "Üretim ve İşleme Kabiliyetlerimiz",
+    "cta": "Detayları Gör",
+    "cncMilling": {
+      "title": "CNC Freze İmalatı",
+      "description": "Karmaşık geometrilere sahip parçaların, yüksek hassasiyet ve yüzey kalitesiyle işlenmesi."
+    },
+    "cncTurning": {
+      "title": "CNC Torna İşlemleri",
+      "description": "Milimetrik tolerans gerektiren silindirik parçalar için güvenilir ve tekrarlanabilir üretim."
+    },
+    "moldParts": {
+      "title": "Kalıp Parça Üretimi",
+      "description": "Seri üretime uygun, kalite kontrol süreçleri ile birlikte yüksek standartlarda üretilmektedir."
+    },
+    "surfaceGrinding": {
+      "title": "Yüzey Taşlama İşlemleri",
+      "description": "Parçalarınızın yüzeylerinde mikron düzeyinde hassasiyet ve mükemmel parlaklık sağlıyoruz."
+    }
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Hizmetlerimiz ve süreçlerimiz hakkında sıkça sorulan sorular.",
+    "items": [
+      {
+        "question": "Minimum sipariş adedi var mı?",
+        "answer": "Proje bazlı çalıştığımız için minimum sipariş adedi bulunmamaktadır. Numune üretim ve düşük adetli işler de kabul edilmektedir."
+      },
+      {
+        "question": "Hangi toleranslarda üretim yapabiliyorsunuz?",
+        "answer": "Parça ve malzemeye bağlı olarak ±0,01 mm toleranslara kadar CNC işleme yapılabilmektedir. Teknik çizim üzerinden değerlendirme yapılır."
+      },
+      {
+        "question": "Seri üretim yapıyor musunuz?",
+        "answer": "Evet. Tek seferlik projelerin yanı sıra seri üretim taleplerine uygun altyapı ve makine parkı mevcuttur."
+      },
+      {
+        "question": "Hangi sektörlere hizmet veriyorsunuz?",
+        "answer": "Otomotiv, makine imalatı, savunma sanayi ve endüstriyel üretim sektörlerine CNC işleme hizmetleri sunulmaktadır."
+      },
+      {
+        "question": "Teklif almak için ne yapmam gerekiyor?",
+        "answer": "Teknik resim ve üretim detayları ile iletişime geçerek hızlı şekilde teklif alabilirsiniz."
+      }
+    ]
+  },
+  "cta": {
+    "home": {
+      "title": "Projeniz İçin Doğru CNC Çözümünü Planlayalım",
+      "description": "Teknik çizim, numune üretim veya seri imalat ihtiyaçlarınız için bizimle iletişime geçin. Size en uygun üretim çözümünü birlikte belirleyelim.",
+      "call": "Hemen Ara",
+      "offer": "Teklif Al"
+    }
+  },
+  "machines": {
+    "title": "Makine Parkuru | Enka",
+    "description": "Bu sayfa Enka Makine Kalıp firması makine parkuru sayfasıdır.",
+    "badge": "Hassas Donanım",
+    "heading": "Makine Parkuru",
+    "specs": "Özellikler",
+    "list": [
+      {
+        "id": 0,
+        "name": "HYUNDAI F4600 II",
+        "desc": "Dik İşleme Merkezi",
+        "img": "",
+        "model": "2021 Model",
+        "specs": {
+          "spec1": "X-Y-Z Eksen Hareketi: 900-460-520 mm",
+          "spec2": "Hareket Hızı (X/Y/Z): 36 m/dak",
+          "spec3": "Direct Driven Spindle: 8K(β), 8K, 12K",
+          "spec4": "Takım Değiştirme Zamanı: 3.2 san",
+          "spec5": "3 Eksen"
+        },
+        "type": "Masuralı Tip"
+      },
+      {
+        "id": 1,
+        "name": "AKIRA SEIKI PERFORMA V2.5",
+        "desc": "Dik İşleme Merkezi",
+        "img": "",
+        "model": "2019 Model",
+        "specs": {
+          "spec1": "X-Y-Z Eksen Hareketi: 760-445-520 mm",
+          "spec2": "Hareket Hızı (X/Y/Z): 44/44/36 m/dak",
+          "spec3": "Direct Driven Spindle: 12K maks",
+          "spec4": "Takım Değiştirme Zamanı: 2.2 san",
+          "spec5": "3 Eksen"
+        },
+        "type": "Masuralı Tip"
+      },
+      {
+        "id": 2,
+        "name": "HYUNDAI F500 PLUS",
+        "desc": "Dik İşleme Merkezi",
+        "img": "",
+        "model": "2016 Model",
+        "specs": {
+          "spec1": "X-Y-Z Eksen Hareketi: 1060-510-635 mm",
+          "spec2": "Hareket Hızı (X/Y/Z): 36/36/30 m/dak",
+          "spec3": "Direct Driven Spindle: 12000 rpm",
+          "spec4": "Tool Change Time: 3.2 sec",
+          "spec5": "3 Eksen"
+        },
+        "type": "Masuralı Tip"
+      },
+      {
+        "id": 3,
+        "name": "AKIRA SEIKI PERFORMA V4.5",
+        "desc": "Dik İşleme Merkezi",
+        "img": "",
+        "model": "2015 Model",
+        "specs": {
+          "spec1": "X-Y-Z Eksen Hareketi: 1150-640-660 mm",
+          "spec2": "Hareket Hızı (X/Y/Z): 30/30/25 m/dak",
+          "spec3": "Direct Driven Spindle: 10000 rpm",
+          "spec4": "Tool Change Time: 2.2 sec",
+          "spec5": "3 Eksen"
+        },
+        "type": "Masuralı Tip"
+      },
+      {
+        "id": 4,
+        "name": "POWER MAX SV-105 L",
+        "desc": "Dik İşleme Merkezi",
+        "img": "",
+        "model": "2014 Model",
+        "specs": {
+          "spec1": "X-Y-Z Eksen Hareketi: 1050-600-600 mm",
+          "spec2": "Hareket Hızı (X/Y/Z): 36 m/dak",
+          "spec3": "Direct Drive Spindle: 10000 rpm",
+          "spec4": "3 Eksen"
+        },
+        "type": "Masuralı Tip"
+      },
+      {
+        "id": 5,
+        "name": "SORALUCE TA-20",
+        "desc": "Dik İşleme Merkezi",
+        "img": "",
+        "model": "2003 Model",
+        "specs": {
+          "spec1": "X-Y-Z Eksen Hareketi: 2000-800-800 mm",
+          "spec2": "Hareket Hızı (X/Y/Z): 20 m/dak",
+          "spec3": "Spindle Hızı: 3000 rpm",
+          "spec4": "3 Eksen"
+        },
+        "type": "Masuralı Tip"
+      },
+      {
+        "id": 6,
+        "name": "Quaser",
+        "desc": "Dik İşleme Merkezi",
+        "img": "",
+        "model": "2005 Model",
+        "specs": {
+          "spec1": "X-Y-Z Eksen Hareketi: 700-560-560 mm",
+          "spec2": "Hareket Hızı (X/Y/Z): 20 m/dak",
+          "spec3": "Spindle Hızı: 12000 rpm",
+          "spec4": "3 Eksen"
+        },
+        "type": "Masuralı Tip"
+      },
+      {
+        "id": 7,
+        "name": "GOODWAY TB-150",
+        "desc": "CNC Torna",
+        "img": "",
+        "model": "2003 Model",
+        "specs": {
+          "spec1": "Tornalama Çap: 220 mm",
+          "spec2": "Length: 325 mm",
+          "spec3": "Dönme Hızı: 6000 rpm",
+          "spec4": "2 Eksen Lineer Kızak"
+        }
+      },
+      {
+        "id": 8,
+        "name": "YUNNAN CY 6250 B UNIVERSAL",
+        "desc": "Torna Tezgahı",
+        "img": "",
+        "model": "2014 Model",
+        "specs": {
+          "spec1": "Tornalama Çapı: 500 mm",
+          "spec2": "Tornalama Boyu: 2000 mm",
+          "spec3": "Mil Hızı: 1600 rpm",
+          "spec4": "Fener Mili: 82 mm"
+        }
+      },
+      {
+        "id": 9,
+        "name": "TOSS KGS1224 AHD",
+        "desc": "Taşlama",
+        "img": "",
+        "model": "2007 Model",
+        "specs": {
+          "spec1": "X-Y-Z Eksen Hareketi: 660-340-520 mm",
+          "spec2": "Tabla Ölçüsü: 300 x 600 mm",
+          "spec3": "Tabla Hızı: 5-25 m/dak",
+          "spec4": "Dönme Hızı: 1740 rpm"
+        }
+      },
+      {
+        "id": 10,
+        "name": "JETCO JVHM-3",
+        "desc": "Kalıpçı Frezesi",
+        "img": "",
+        "model": "2014 Model",
+        "specs": {
+          "spec1": "X-Y-Z Eksen Hareketleri: 600-230-260 mm",
+          "spec2": "Tabla Ölçüsü: 1120 x 280 mm",
+          "spec3": "İşmili Hız Aralığı (Dikey): 5440 rpm",
+          "spec4": "İşmili Hız Aralığı (Yatay): 1300 rpm"
+        }
+      },
+      {
+        "id": 11,
+        "name": "BHK03",
+        "desc": "Hidrolik Kılavuz Çekme",
+        "img": "",
+        "model": "2022 Model",
+        "specs": {
+          "spec1": "Çalışma Kolu Boyutu: A: 500 | B: 2050 | C: 920 | D: 700",
+          "spec2": "Tabla Boyutu: 700 x 900 mm",
+          "spec3": "Kılavuz Kapasitesi: M5 - M36",
+          "spec4": "Devir: 150 rpm"
+        }
+      },
+      {
+        "id": 12,
+        "name": "LMK-XX-PS (Portatif Sistem)",
+        "desc": "Lazer Markalama",
+        "img": "",
+        "model": "2020 Model",
+        "specs": {
+          "spec1": "Lazer Gücü: 20 Watt",
+          "spec2": "Güç tüketimi: 100 W (20°C)",
+          "spec3": "Lazer Dalgaboyu: 1064±4 nm",
+          "spec4": "Soğutma Yöntemi: Hava soğutma"
+        },
+        "type": "Pulsed"
+      }
+    ]
+  }
+}

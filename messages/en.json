@@ -1,0 +1,408 @@
+{
+  "navbar": {
+    "home": "Home",
+    "machines": "Machines",
+    "references": "References",
+    "contact": "Contact",
+    "language": "Language",
+    "languageSwitcher": {
+      "en": "English",
+      "tr": "Turkish"
+    }
+  },
+
+  "Machines": {
+    "title": "Our Machines",
+    "details": "View Details"
+  },
+
+  "Contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch",
+    "description": "Fill out the form below and we'll get back to you as soon as possible.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message"
+  },
+
+  "keywords": [
+    "enka",
+    "en-ka",
+    "nka",
+    "recep arslan",
+    "enka cnc",
+    "en-ka cnc",
+    "machine",
+    "mold",
+    "machining",
+    "metal",
+    "cutting",
+    "cnc",
+    "turning",
+    "milling",
+    "grinding",
+    "bursa",
+    "çalı"
+  ],
+
+  "category": "machining",
+
+  "loading": "Loading...",
+
+  "header": {
+    "direction": "Direction",
+    "tel": "+90 224 441 55 44",
+    "href": "tel:+902244415544"
+  },
+
+  "home": {
+    "title": "Home | En-Ka Machining & Mold",
+    "description": "En-Ka Machining & Mold is a CNC machining and mold manufacturing company based in Bursa Çalı Sanayi Bölgesi. We provide precision machining and mold manufacturing services for various industries.",
+    "seoH1": "CNC Milling and Turning | En-Ka Machining & Mold, Bursa",
+    "hero": {
+      "headline": "Your Reliable Partner\nfor CNC Milling & Turning",
+      "description": "En-Ka Machining delivers fast, flexible and dependable CNC solutions from prototyping to full-scale production.",
+      "subDescription": "We don’t just manufacture parts — we take ownership of your entire process."
+    },
+    "trust": {
+      "text": "We provide CNC machining solutions for automotive, machinery, defense, and industrial manufacturing sectors, meeting a wide range of tolerance and material requirements.",
+      "precision": {
+        "value": "±0.01 mm",
+        "label": "Precision"
+      },
+      "delivery": {
+        "value": "48–72 hrs",
+        "label": "Prototype Delivery"
+      },
+      "experience": {
+        "value": "10+ years",
+        "label": "CNC Experience"
+      }
+    },
+    "who": {
+      "h": "WHO WE ARE",
+      "p": "We combined our experience in machining and mold industry under the name of En-Ka Makine Kalıp in 2015 and we continue to serve our valued customers in Çalı Industrial Zone."
+    },
+    "mission": {
+      "h": "MISSION",
+      "p": "We aim to provide technological solutions, achieve the highest standards, and deliver the best services in line with quality management for customer satisfaction in machining."
+    },
+    "vision": {
+      "h": "VISION",
+      "p": "To become one of Turkey's leading company, while providing efficiently, competitively, technologically, and environmentally friendly products and services to our valued customers."
+    },
+    "explore": "Explore Machines",
+    "contact": "Contact Us"
+  },
+
+  "footer": {
+    "company": "En-Ka Machining & Mold",
+    "rights": "All rights reserved.",
+    "about": "En-Ka Machining & Mold is a CNC machining and mold manufacturing company based in Bursa Çalı Sanayi Bölgesi. We provide precision machining and mold manufacturing services for various industries.",
+    "navigation": "Pages",
+    "contact": "Contact",
+    "since": "Since 2014"
+  },
+
+  "references": {
+    "title": "References",
+    "description": "This page shows the references of En-Ka Machine & Mold Corporation, which has produced solutions for these companies.",
+    "heading": "References",
+    "subtitle": "Proven Track Record",
+    "others": "and many others ..."
+  },
+
+  "contact": {
+    "title": "Contact | En-Ka Machining & Mold",
+    "description": "Get in touch with En-Ka Machining & Mold. You can find our address, phone, and email information here.",
+    "heading": "Contact Us",
+    "tel": "+90 224 441 55 44",
+    "href": "tel:+902244415544",
+    "fax": "+90 224 441 16 17",
+    "email": "bilgi@en-ka.net",
+    "address": "Çalı Sanayi Bölgesi Beyaz Cadde No: 2 Nilüfer / BURSA",
+    "form": {
+      "heading": "Send Us a Message",
+      "name": "Full Name",
+      "mail": "Email Address",
+      "phone": "Phone Number",
+      "message": "Your Message",
+      "btn": "Send Message",
+      "placeholders": {
+        "name": "Full Name",
+        "email": "email@example.com",
+        "phone": "+90 5XX XXX XX XX",
+        "message": "How can we help you?"
+      },
+      "error": "Something went wrong. Please try again later."
+    },
+    "sent": "Your message has been sent. We will get back to you shortly."
+  },
+  "slides": {
+    "0": {
+      "detail": "Your part.\nOur responsibility."
+    },
+    "1": {
+      "detail": "From drawing to metal.\nFast and precise."
+    },
+    "2": {
+      "detail": "From prototype\nto production."
+    },
+    "3": {
+      "detail": "A reliable CNC workshop\nin Bursa."
+    },
+    "4": {
+      "detail": "Your long-term\nmanufacturing partner."
+    }
+  },
+  "error": {
+    "title": "Error: 404",
+    "text": "Page not found!"
+  },
+  "services": {
+    "title": "Manufacturing and Machining Capabilities",
+    "cta": "View Details",
+    "cncMilling": {
+      "title": "CNC Milling",
+      "description": "Machining of complex geometries with high precision and superior surface quality."
+    },
+    "cncTurning": {
+      "title": "CNC Turning",
+      "description": "Reliable and repeatable production for cylindrical parts requiring micron-level tolerances."
+    },
+    "moldParts": {
+      "title": "Mold Part Manufacturing",
+      "description": "High-precision mold parts suitable for serial production."
+    },
+    "surfaceGrinding": {
+      "title": "Surface Grinding Services",
+      "description": "We provide micron-level precision and perfect surface finish for your components."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our services and processes.",
+    "items": [
+      {
+        "question": "Is there a minimum order quantity?",
+        "answer": "Since we work on a project basis, there is no minimum order quantity. Prototype and low-volume production are also accepted."
+      },
+      {
+        "question": "What tolerances can you achieve?",
+        "answer": "Depending on the part and material, CNC machining can be performed with tolerances down to ±0.01 mm. Final tolerances are evaluated based on technical drawings."
+      },
+      {
+        "question": "Do you offer serial production?",
+        "answer": "Yes. In addition to one-off projects, we also have the infrastructure and machine capacity for serial production."
+      },
+      {
+        "question": "Which industries do you serve?",
+        "answer": "We provide CNC machining solutions for automotive, machinery manufacturing, defense industry, and industrial production sectors."
+      },
+      {
+        "question": "How can I request a quotation?",
+        "answer": "You can receive a fast quotation by contacting us with technical drawings and production details."
+      }
+    ]
+  },
+  "cta": {
+    "home": {
+      "title": "Let’s Plan the Right CNC Solution for Your Project",
+      "description": "Contact us for your technical drawings, prototype production, or serial manufacturing needs. Let’s determine the most suitable solution together.",
+      "call": "Call Now",
+      "offer": "Request a Quote"
+    }
+  },
+  "machines": {
+    "title": "Machine Park | Enka",
+    "description": "This is the machine park page of Enka Machine & Mold Corporation.",
+    "badge": "Precision Equipment",
+    "heading": "Machine Park",
+    "specs": "Specifications",
+    "list": [
+      {
+        "id": 0,
+        "name": "HYUNDAI F4600 II",
+        "desc": "Vertical Machining Center",
+        "img": "",
+        "model": "2021 Model",
+        "specs": {
+          "spec1": "Travel (X/Y/Z): 900-460-520 mm",
+          "spec2": "Rapid Traverse Rate (X/Y/Z): 36 m/min",
+          "spec3": "Direct Driven Spindle: 8K(β), 8K, 12K",
+          "spec4": "Tool Change Time: 3.2 sec",
+          "spec5": "3 Axis"
+        },
+        "type": "Roller Type"
+      },
+      {
+        "id": 1,
+        "name": "AKIRA SEIKI PERFORMA V2.5",
+        "desc": "Vertical Machining Center",
+        "img": "",
+        "model": "2019 Model",
+        "specs": {
+          "spec1": "Travel (X/Y/Z): 760-445-520 mm",
+          "spec2": "Rapid Traverse Rate (X/Y/Z): 44/44/36 m/min",
+          "spec3": "Direct Driven Spindle: 12K max",
+          "spec4": "Tool Change Time: 2.2 sec",
+          "spec5": "3 Axis"
+        },
+        "type": "Roller Type"
+      },
+      {
+        "id": 2,
+        "name": "HYUNDAI F500 PLUS",
+        "desc": "Vertical Machining Center",
+        "img": "",
+        "model": "2016 Model",
+        "specs": {
+          "spec1": "Travel (X/Y/Z): 1060-510-635 mm",
+          "spec2": "Rapid Traverse Rate (X/Y/Z): 36/36/30 m/min",
+          "spec3": "Direct Driven Spindle: 12000 rpm",
+          "spec4": "Tool Change Time: 3.2 sec",
+          "spec5": "3 Axis"
+        },
+        "type": "Roller Type"
+      },
+      {
+        "id": 3,
+        "name": "AKIRA SEIKI PERFORMA V4.5",
+        "desc": "Vertical Machining Center",
+        "img": "",
+        "model": "2015 Model",
+        "specs": {
+          "spec1": "Travel (X/Y/Z): 1150-640-660 mm",
+          "spec2": "Rapid Traverse Rate (X/Y/Z): 30/30/25 m/min",
+          "spec3": "Direct Drive Spindle: 10000 rpm",
+          "spec4": "Tool Change Time: 2.2 sec",
+          "spec5": "3 Axis"
+        },
+        "type": "Roller Type"
+      },
+      {
+        "id": 4,
+        "name": "POWER MAX SV-105 L",
+        "desc": "Vertical Machining Center",
+        "img": "",
+        "model": "2014 Model",
+        "specs": {
+          "spec1": "Travel (X/Y/Z): 1050-600-600 mm",
+          "spec2": "Rapid Traverse Rate (X/Y/Z): 36 m/min",
+          "spec3": "Direct Driven Spindle: 10000 rpm",
+          "spec4": "3 Axis"
+        },
+        "type": "Roller Type"
+      },
+      {
+        "id": 5,
+        "name": "SORALUCE TA-20",
+        "desc": "Bed Type Milling",
+        "img": "",
+        "model": "2003 Model",
+        "specs": {
+          "spec1": "Travel (X/Y/Z): 2000-800-800 mm",
+          "spec2": "Rapid Traverse Rate (X/Y/Z): 20 m/min",
+          "spec3": "Spindle Speed: 3000 rpm",
+          "spec4": "3 Axis"
+        },
+        "type": "Roller Type"
+      },
+
+      {
+        "id": 6,
+        "name": "Quaser",
+        "desc": "Vertical Machining Center",
+        "img": "",
+        "model": "2020 Model",
+        "specs": {
+          "spec1": "Travel (X/Y/Z): 700-560-560 mm",
+          "spec2": "Rapid Traverse Rate (X/Y/Z): 20 m/min",
+          "spec3": "Spindle Speed: 12000 rpm",
+          "spec4": "3 Axis"
+        },
+        "type": "Roller Type"
+      },
+      {
+        "id": 7,
+        "name": "GOODWAY TB-150",
+        "desc": "CNC Lathe",
+        "img": "",
+        "model": "2003 Model",
+        "specs": {
+          "spec1": "Turning Diameter: 220 mm",
+          "spec2": "Turning Length: 325 mm",
+          "spec3": "Spindle Speed: 6000 rpm",
+          "spec4": "2 Axis Linear"
+        }
+      },
+      {
+        "id": 8,
+        "name": "YUNNAN CY 6250 B UNIVERSAL",
+        "desc": "Lathe",
+        "img": "",
+        "model": "2014 Model",
+        "specs": {
+          "spec1": "Turning Diameter: 500 mm",
+          "spec2": "Turning Length: 2000 mm",
+          "spec3": "Spindle Speed: 1600 rpm",
+          "spec4": "Spindle Bore: 82 mm"
+        }
+      },
+      {
+        "id": 9,
+        "name": "TOSS KGS1224 AHD",
+        "desc": "Surface Grinder",
+        "img": "",
+        "model": "2007 Model",
+        "specs": {
+          "spec1": "Travel (X/Y/Z): 660-340-520 mm",
+          "spec2": "Table Dimension: 300 x 600 mm",
+          "spec3": "Table Speed: 5-25 m/dak",
+          "spec4": "Spindle Speed: 1740 rpm"
+        }
+      },
+      {
+        "id": 10,
+        "name": "JETCO JVHM-3",
+        "desc": "Milling",
+        "img": "",
+        "model": "2014 Model",
+        "specs": {
+          "spec1": "Travel (X/Y/Z): 600-230-260 mm",
+          "spec2": "Table Dimension: 1120 x 280 mm",
+          "spec3": "Spindle Speed (Vertical): 5400 rpm",
+          "spec4": "Spindle Speed (Horizontal): 1300 rpm"
+        }
+      },
+      {
+        "id": 11,
+        "name": "BHK03",
+        "desc": "Hydraulic Tapping",
+        "img": "",
+        "model": "2022 Model",
+        "specs": {
+          "spec1": "Arm Size: A: 500 | B: 2050 | C: 920 | D: 700",
+          "spec2": "Table Dimension: 700 x 900 mm",
+          "spec3": "Tapping Capacity: M5 - M36",
+          "spec4": "Rotation: 150 rpm"
+        }
+      },
+      {
+        "id": 12,
+        "name": "LMK-XX-PS (Portable System)",
+        "desc": "Laser Marking",
+        "img": "",
+        "model": "2020 Model",
+        "specs": {
+          "spec1": "Laser Power: 20 Watt",
+          "spec2": "Power Consumption: 100 W (20°C)",
+          "spec3": "Laser Wavelength: 1064 nm",
+          "spec4": "Cooling Method: Air Cooling"
+        },
+        "type": "Pulsed"
+      }
+    ]
+  }
+}
