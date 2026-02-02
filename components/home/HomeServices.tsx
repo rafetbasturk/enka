@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import { useTranslations } from "next-intl";
 import { Settings, RotateCw, Layers, Sparkles } from "lucide-react";
 import { motion } from "framer-motion";
@@ -63,9 +62,7 @@ export default function HomeServices() {
               index={index}
               title={t(`${service.key}.title`)}
               description={t(`${service.key}.description`)}
-              href={`/services/${service.slug}`}
               Icon={service.Icon}
-              cta={t("cta")}
             />
           ))}
         </div>
@@ -77,16 +74,12 @@ export default function HomeServices() {
 function ServiceCard({
   title,
   description,
-  href,
   Icon,
-  cta,
   index,
 }: {
   title: string;
   description: string;
-  href: string;
   Icon: React.ElementType;
-  cta: string;
   index: number;
 }) {
   return (
@@ -96,13 +89,11 @@ function ServiceCard({
       viewport={{ once: true }}
       transition={{ duration: 0.5, delay: index * 0.1 }}
     >
-      <Link
-        href={href}
+      <div
         className="
           group relative flex flex-col h-full rounded-2xl border bg-background/50 backdrop-blur-sm p-8
           transition-all duration-300
           hover:border-primary/50 hover:shadow-2xl hover:shadow-primary/5
-          focus:outline-none focus:ring-2 focus:ring-primary
         "
       >
         <div className="mb-6 inline-flex items-center justify-center w-14 h-14 rounded-xl bg-primary/10 text-primary transition-colors group-hover:bg-primary group-hover:text-primary-foreground">
@@ -114,18 +105,7 @@ function ServiceCard({
         <p className="mt-4 text-muted-foreground leading-relaxed grow">
           {description}
         </p>
-
-        {/* <div
-          className="
-            mt-8 flex items-center gap-2 text-sm font-semibold text-primary transition-all group-hover:gap-3
-          "
-        >
-          {cta}
-          <span className="transition-transform group-hover:translate-x-1">
-            →
-          </span>
-        </div> */}
-      </Link>
+      </div>
     </motion.div>
   );
 }
